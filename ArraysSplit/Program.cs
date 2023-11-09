@@ -1,0 +1,3 @@
+﻿int[] numbers = Console.ReadLine());   
+
+    ;
